@@ -1,6 +1,6 @@
 
 ---
-- hosts: prod
+- hosts: Prod
   tasks:
    - name: Install add-apt-repostory
      become: yes
